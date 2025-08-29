@@ -38,7 +38,7 @@
 > Drop your repo links here — change the placeholders to real repos.
 
 - [EmailBot](https://github.com/Nooby212/EmailBot) — Email Script
-- [sekai-tools](https://github.com/Nooby212/CLI-todo) — A Todo app with CRUD capabilities
+- [CLI-Todo](https://github.com/Nooby212/CLI-todo) — A Todo app with CRUD capabilities
 
 ---
 
