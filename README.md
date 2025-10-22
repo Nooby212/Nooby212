@@ -1,8 +1,7 @@
 <!-- README.md for GitHub profile (repo name must be EXACTLY: Nooby212) -->
 
 # 👋 Hi, I'm Nooby212
-> Part-time code monkey, full-time chaos engineer.  
-> I fix old laptops, break things intentionally, then fix 'em again. 🤌
+> Self thought C# dev with a passion of creating dumb useless projects and crying when they don't work.
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Nooby212&style=flat)](https://github.com/Nooby212)
 
@@ -11,8 +10,7 @@
 ## 🔧 About me
 - Student / hardware nerd / Vocaloid stan  
 - Learning: **C#**, **Linux**, **.NET**
-- Hobbies: repairing laptops, making dumb project  
-- Motto: `LINUX FOR LIFE!`
+- Hobbies: Learning abt hardware and software
 
 ---
 
