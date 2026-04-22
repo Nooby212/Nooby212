@@ -18,6 +18,6 @@ I am a developer and student focused on low-level programming and system efficie
 ![Nooby212's Stats](https://github-readme-stats.vercel.app/api?username=Nooby212&show_icons=true&theme=dark)
 
 ---
-*The right man in the wrong place can make all the difference in the world.
+*The right man in the wrong place can make all the difference in the world.*
 
-  -The G Man - Half-Life series*
+  -The G Man - Half-Life series
