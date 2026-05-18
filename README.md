@@ -12,8 +12,6 @@ I am a developer and student focused on low-level programming and system efficie
 ### tools
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Debian](https://img.shields.io/badge/Debian-D1014E?style=for-the-badge&logo=debian&logoColor=white)
 
 ---
 *The right man in the wrong place can make all the difference in the world.*
